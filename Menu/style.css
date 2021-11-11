@@ -1,0 +1,17 @@
+.fixed-positioning{
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    
+
+    
+
+    bottom: 100px;
+    right: 100px;
+
+    /*z-index: -1; <--Da posiscion en eje z*/
+}
+.div1{
+    height:100%
+    
+}
